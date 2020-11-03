@@ -259,7 +259,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * [Using Semaphore](https://semaphoreci.com/blog/google-cloud-run-cicd-first-look)
 * GitLab
   * 📰 [Using GitLab](https://viggy28.dev/article/cloudrun-cicd/)
-  * 📰 [GitLab CI / CD to Cloud Run](https://medium.com/@jeandesravines/serverless-docker-using-google-cloud-run-a0ca21ef1c20)
+  * 📰 [GitLab CI / CD to Cloud Run](https://medium.com/google-cloud/deploy-to-cloud-run-using-gitlab-ci-e056685b8eeb)
 * [Using Travis CI](https://github.com/ahmetb/cloud-run-travisci)
 * [Using Bitbucket Pipelines](https://medium.com/@puuga/dev-story-deploy-to-gcp-cloud-run-with-bitbucket-pipelines-4fef8f2ece27)
 * Using GitHub Actions:
@@ -267,6 +267,8 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
   - 📰 [Publish your Cloud Run App with GitHub Actions](https://medium.com/better-programming/publish-your-cloud-run-app-with-github-actions-6c18ff5c5ee4)
   - 📰 [Automate Cloud Run deployment in a minute (with GitHub actions)](https://medium.com/@ujwaldhakal/automate-cloud-run-deployment-in-a-minute-cb85e7db9f82)
    - [Github Action for Google Cloud Run](https://github.com/marketplace/actions/cloud-run)
+* Continuous delivery
+  - 📰 [CI/CD pipeline with Cloud Build and Cloud Run](https://serverlessarchitecture.medium.com/ci-cd-pipeline-with-cloud-build-and-cloud-run-2682e0c100d0)
 
 ## Integrations
 
